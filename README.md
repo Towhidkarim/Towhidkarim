@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Towhidkarim&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Towhidkarim&icon=6&color=1)](https://visitcount.itsvg.in)
