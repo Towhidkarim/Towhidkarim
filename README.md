@@ -1,3 +1,6 @@
+![Header](./github-header-banner.png)
+
+
 # 💫 About Me:
 🛠️ I’m currently working with React, Next.js, and the related ecosystem on various projects, specially on full-stack ones<br>🤝 I’m looking to collaborate on Projects with other developers possibly a remote job opportunity as well<br>🌱 I’m currently learning everything from Bun and Hono to WebSockets and other popular JS frameworks<br>💻 I love working in the JavaScript (TypeScript) ecosystem and am constantly learning more about it, but I'm also interested in Go and would like to dive into it in the near future<br>⚡ Always exploring new tech stacks!
 
